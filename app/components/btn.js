@@ -1,0 +1,1 @@
+export { default } from 'addon-check/components/btn';
